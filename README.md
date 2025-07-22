@@ -79,7 +79,7 @@ A glimpse into the technologies I work with.
 Here are some of the projects I'm most proud of.
 
 <details>
-  <summary><strong>🤖 Auto Poll Generation | AI-Driven Meeting Assistant</strong></summary>
+  <summary><strong> Auto Poll Generation | AI-Driven Meeting Assistant</strong></summary>
   <br>
   <p>An AI system that converts real-time speech into insightful polls to boost student engagement. This was developed during my Summer Internship at IIT Ropar.</p>
   <ul>
@@ -89,7 +89,7 @@ Here are some of the projects I'm most proud of.
 </details>
 
 <details>
-  <summary><strong>🎮 Shortcut Sensei | Gamified Productivity Trainer</strong></summary>
+  <summary><strong> Shortcut Sensei | Gamified Productivity Trainer</strong></summary>
   <br>
   <p>A quiz-based shortcut learning platform designed to enhance productivity through gamification.</p>
   <ul>
@@ -99,7 +99,7 @@ Here are some of the projects I'm most proud of.
 </details>
 
 <details>
-  <summary><strong>🐍 Pysan | Python Environment Inspector</strong></summary>
+  <summary><strong> Pysan | Python Environment Inspector</strong></summary>
   <br>
   <p>A visual tool for auditing Python environments to detect unused or bulky packages directly from `requirements.txt`.</p>
   <ul>
@@ -115,7 +115,7 @@ Here are some of the projects I'm most proud of.
 <details open>
   <summary>Click to view my key achievements</summary>
   <ul>
-    <li>🏅 **Google Agentic AI Hackathon Finalist:** Shortlisted among the **top 2000 developers from 57,600+ applicants** for the Google Agentic AI Hackathon by Hack2Skill. Competed in the 30-hour in-person event in Bangalore (July 2025).</li>
+    <li>🏅 **Google Agentic AI Hackathon Finalist** : Shortlisted among the **top 2000 developers from 57,600+ applicants** for the Google Agentic AI Hackathon by Hack2Skill. Competed in the 30-hour in-person event in Bangalore (July 2025).</li>
     <li>🏆 **Best Class Representative Award:** Honored by the Principal for consistent leadership and outstanding contributions to the student community (Dec 2024).</li>
     <li>🥈 **NPTEL Silver Medalist & Club Coordinator:** Awarded a Silver Medal in Business Japanese and currently leading the **Foreign Language Club** to foster cross-cultural communication.</li>
   </ul>
