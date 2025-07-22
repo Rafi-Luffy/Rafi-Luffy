@@ -18,7 +18,7 @@
 <!-- About Me Section -->
 <div align="center">
   
-A **Computer Science student** with a builder's mindset, blending curiosity, code, and a passion for *kaizen* (continuous improvement) to create impactful technology. I specialize in designing efficient, user-centric systems across **AI, Web, and Data platforms**. As a **Google Cloud Certified** professional fluent in Japanese business etiquette, I thrive in globally collaborative and cross-cultural development environments.
+A <b>Computer Science student</b> with a builder's mindset, blending curiosity, code, and a passion for <i>kaizen</i> (continuous improvement) to create impactful technology. I specialize in designing efficient, user-centric systems across <b>AI, Web, and Data platforms</b>. As a <b>Google Cloud Certified</b> professional fluent in Japanese business etiquette, I thrive in globally collaborative and cross-cultural development environments.
 
 </div>
 
@@ -79,7 +79,7 @@ A glimpse into the technologies I work with.
 Here are some of the projects I'm most proud of.
 
 <details>
-  <summary><strong> Auto Poll Generation | AI-Driven Meeting Assistant</strong></summary>
+  <summary><strong>🤖 Auto Poll Generation | AI-Driven Meeting Assistant</strong></summary>
   <br>
   <p>An AI system that converts real-time speech into insightful polls to boost student engagement. This was developed during my Summer Internship at IIT Ropar.</p>
   <ul>
@@ -89,7 +89,7 @@ Here are some of the projects I'm most proud of.
 </details>
 
 <details>
-  <summary><strong> Shortcut Sensei | Gamified Productivity Trainer</strong></summary>
+  <summary><strong>🎮 Shortcut Sensei | Gamified Productivity Trainer</strong></summary>
   <br>
   <p>A quiz-based shortcut learning platform designed to enhance productivity through gamification.</p>
   <ul>
@@ -99,7 +99,7 @@ Here are some of the projects I'm most proud of.
 </details>
 
 <details>
-  <summary><strong> Pysan | Python Environment Inspector</strong></summary>
+  <summary><strong>🐍 Pysan | Python Environment Inspector</strong></summary>
   <br>
   <p>A visual tool for auditing Python environments to detect unused or bulky packages directly from `requirements.txt`.</p>
   <ul>
@@ -115,9 +115,9 @@ Here are some of the projects I'm most proud of.
 <details open>
   <summary>Click to view my key achievements</summary>
   <ul>
-    <li>🏅 **Google Agentic AI Hackathon Finalist** : Shortlisted among the **top 2000 developers from 57,600+ applicants** for the Google Agentic AI Hackathon by Hack2Skill. Competed in the 30-hour in-person event in Bangalore (July 2025).</li>
-    <li>🏆 **Best Class Representative Award:** Honored by the Principal for consistent leadership and outstanding contributions to the student community (Dec 2024).</li>
-    <li>🥈 **NPTEL Silver Medalist & Club Coordinator:** Awarded a Silver Medal in Business Japanese and currently leading the **Foreign Language Club** to foster cross-cultural communication.</li>
+    <li>🏅 <b>Google Agentic AI Hackathon Finalist:</b> Shortlisted among the <b>top 2000 developers from 57,600+ applicants</b> for the Google Agentic AI Hackathon by Hack2Skill. Competed in the 30-hour in-person event in Bangalore (July 2025).</li>
+    <li>🏆 <b>Best Class Representative Award:</b> Honored by the Principal for consistent leadership and outstanding contributions to the student community (Dec 2024).</li>
+    <li>🥈 <b>NPTEL Silver Medalist & Club Coordinator:</b> Awarded a Silver Medal in Business Japanese and currently leading the <b>Foreign Language Club</b> to foster cross-cultural communication.</li>
   </ul>
 </details>
 
@@ -177,5 +177,5 @@ I'm always open to connecting with fellow developers, students, and collaborator
 
 ---
 <p align="center">
-  <em>⭐ From <strong>Shaik Balaji Mahammad Rafi</strong> – Let’s build something awesome together! ⭐</em>
+  <i>⭐ From <strong>Shaik Balaji Mahammad Rafi</strong> – Let’s build something awesome together! ⭐</i>
 </p>
