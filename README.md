@@ -110,6 +110,44 @@ Here are some of the projects I'm most proud of.
 
 ---
 
+## 🏆 Achievements & Awards
+
+<details open>
+  <summary>Click to view my key achievements</summary>
+  <ul>
+    <li>🏅 **Google Agentic AI Hackathon Finalist:** Shortlisted among the **top 2000 developers from 57,600+ applicants** for the Google Agentic AI Hackathon by Hack2Skill. Competed in the 30-hour in-person event in Bangalore (July 2025).</li>
+    <li>🏆 **Best Class Representative Award:** Honored by the Principal for consistent leadership and outstanding contributions to the student community (Dec 2024).</li>
+    <li>🥈 **NPTEL Silver Medalist & Club Coordinator:** Awarded a Silver Medal in Business Japanese and currently leading the **Foreign Language Club** to foster cross-cultural communication.</li>
+  </ul>
+</details>
+
+---
+
+## 🏅 Certifications
+
+Here are some of my key certifications.
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%"><strong>Google Cloud Data Analytics</strong><br><em>(Issued by Google)</em></td>
+    <td align="center" width="50%"><strong>Data Analytics with Python</strong><br><em>(Issued by NPTEL)</em></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Blockchain Applications</strong><br><em>(Issued by NPTEL)</em></td>
+    <td align="center" width="50%"><strong>Cloud Computing</strong><br><em>(Issued by NPTEL)</em></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Programming in Java</strong><br><em>(Issued by NPTEL)</em></td>
+    <td align="center" width="50%"><strong>Foundations of UX Design</strong><br><em>(Issued by Coursera)</em></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Business Japanese Manner</strong><br><em>(Issued by NPTEL)</em></td>
+    <td align="center" width="50%"><strong>Japanese Language & Culture I, II</strong><br><em>(Issued by NPTEL)</em></td>
+  </tr>
+</table>
+
+---
+
 ## 📊 My GitHub Activity & Stats
 
 <div align="center">
